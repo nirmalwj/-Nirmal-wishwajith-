@@ -89,7 +89,7 @@ async function connectToWA() {
 
       const up = `Wishwa-Bot connected ✅\n\nPREFIX: ${prefix}`;
       await Wishwa .sendMessage(ownerNumber[0] + "@s.whatsapp.net", {
-        image: { url: `https://github.com/Wishwa -MD/Wishwa -MD/blob/main/images/Wishwa -MD.png?raw=true` },
+        image: { url: `https://https://github.com/nirmalwj/-Nirmal-wishwajith-/blob/main/images/OIP.webp?raw=true` },
         caption: up
       });
 
